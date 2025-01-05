@@ -12,4 +12,10 @@ This repository contains a Deep Reinforcement Learning (DRL) project aimed at se
 - Accelerating machine learning processes on large-scale data.
 - Reducing noise and irrelevant data in medical analytics.
 
+### Unziping raw data
+- Requirement of "format_dataset.py"
+```bash
+!unzip /<your_drive_Path>/MIMIC/mimic_cxr-IV.zip -d /<Path_to_your_directory>/train_images_folder
+```
+
 
